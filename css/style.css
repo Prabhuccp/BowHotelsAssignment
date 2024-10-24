@@ -151,6 +151,265 @@ img {
    z-index: 10;
 }
 
+/* dubai */
+.dubai {
+   background: url('../img/home/dubai.jpg') no-repeat center center/cover;
+   height: 100vh;
+   color: #fff;
+   position: relative;
+   padding-top: 0.938rem;
+}
+
+.dubai .content {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   height: 100%;
+   padding: 0 1.25rem;
+   line-height: 1.8;
+}
+
+.dubai .content h1 {
+   font-size: 6.25rem;
+   font-weight: 600;
+   padding-bottom: 1.25rem;
+}
+
+.dubai .content p {
+   font-size: 1.375rem;
+}
+
+.dubai .content .btn {
+   margin-top: 1.25rem;
+}
+
+.dubai::before {
+   content: '';
+   position: absolute;
+   top: 0;
+   left: 0;
+   height: 100%;
+   width: 100%; 
+   background: rgba(0, 0, 0, 0.4);
+}
+
+.dubai * {
+   z-index: 10;
+}
+
+
+/* india */
+.india {
+   background: url('../img/home/india.jpg') no-repeat center center/cover;
+   height: 100vh;
+   color: #fff;
+   position: relative;
+   padding-top: 0.938rem;
+}
+
+.india .content {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   height: 100%;
+   padding: 0 1.25rem;
+   line-height: 1.8;
+}
+
+.india .content h1 {
+   font-size: 6.25rem;
+   font-weight: 600;
+   padding-bottom: 1.25rem;
+}
+
+.india .content p {
+   font-size: 1.375rem;
+}
+
+.india .content .btn {
+   margin-top: 1.25rem;
+}
+
+.india::before {
+   content: '';
+   position: absolute;
+   top: 0;
+   left: 0;
+   height: 100%;
+   width: 100%; 
+   background: rgba(0, 0, 0, 0.4);
+}
+
+.india * {
+   z-index: 10;
+}
+
+/* italy */
+.italy {
+   background: url('../img/home/italy.jpg') no-repeat center center/cover;
+   height: 100vh;
+   color: #fff;
+   position: relative;
+   padding-top: 0.938rem;
+}
+
+.italy .content {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   height: 100%;
+   padding: 0 1.25rem;
+   line-height: 1.8;
+}
+
+.italy .content h1 {
+   font-size: 6.25rem;
+   font-weight: 600;
+   padding-bottom: 1.25rem;
+}
+
+.italy .content p {
+   font-size: 1.375rem;
+}
+
+.italy .content .btn {
+   margin-top: 1.25rem;
+}
+
+.italy::before {
+   content: '';
+   position: absolute;
+   top: 0;
+   left: 0;
+   height: 100%;
+   width: 100%; 
+   background: rgba(0, 0, 0, 0.4);
+}
+
+.italy * {
+   z-index: 10;
+}
+
+/* Icons */
+.icons {
+   padding: 1.25rem;
+}
+
+.icons i {
+   font-size: 2.5rem;
+   color: #14af74;
+   padding-bottom: 1rem;
+}
+
+.icons h3 {
+   font-weight: 600;
+}
+
+
+/* usa */
+.usa {
+   background: url('../img/home/ny.jpg') no-repeat center center/cover;
+   height: 100vh;
+   color: #fff;
+   position: relative;
+   padding-top: 0.938rem;
+}
+
+.usa .content {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   height: 100%;
+   padding: 0 1.25rem;
+   line-height: 1.8;
+}
+
+.usa .content h1 {
+   font-size: 6.25rem;
+   font-weight: 600;
+   padding-bottom: 1.25rem;
+}
+
+.usa .content p {
+   font-size: 1.375rem;
+}
+
+.usa .content .btn {
+   margin-top: 1.25rem;
+}
+
+.usa::before {
+   content: '';
+   position: absolute;
+   top: 0;
+   left: 0;
+   height: 100%;
+   width: 100%; 
+   background: rgba(0, 0, 0, 0.4);
+}
+
+.usa * {
+   z-index: 10;
+}
+
+
+/* cari */
+.cari {
+   background: url('../img/home/caribbean.jpg') no-repeat center center/cover;
+   height: 100vh;
+   color: #fff;
+   position: relative;
+   padding-top: 0.938rem;
+}
+
+.cari .content {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   height: 100%;
+   padding: 0 1.25rem;
+   line-height: 1.8;
+}
+
+.cari .content h1 {
+   font-size: 6.25rem;
+   font-weight: 600;
+   padding-bottom: 1.25rem;
+}
+
+.cari .content p {
+   font-size: 1.375rem;
+}
+
+.cari .content .btn {
+   margin-top: 1.25rem;
+}
+
+.cari::before {
+   content: '';
+   position: absolute;
+   top: 0;
+   left: 0;
+   height: 100%;
+   width: 100%; 
+   background: rgba(0, 0, 0, 0.4);
+}
+
+.cari * {
+   z-index: 10;
+}
+
+
 /* Icons */
 .icons {
    padding: 1.25rem;
@@ -269,7 +528,7 @@ img {
 
 /* About-info */
 .hero.about-post {
-   background: url(../img/home/about-post.jpg) no-repeat center center/cover;
+   background: url(../img/home/dubai.jpg) no-repeat center center/cover;
    height: 50vh;
 }
 
@@ -394,6 +653,12 @@ img {
 .footer-thankyou .socials a:hover {
    color: #fff;
 }
+
+.others{
+   text-align: center;
+   font-size: 40px;
+   background-color: #ddd;
+}
 /* Footer */
 .footer {
    display: flex;
@@ -498,3 +763,18 @@ img {
    }
 }
 
+.extra {
+   display: flex;
+   justify-content: space-around;
+}
+.extra img {
+   width: 450px;
+   height: 400px;
+   object-fit: cover;
+}
+
+
+.contactdet{
+   font-weight: bolder;
+   font-size: larger;
+}
